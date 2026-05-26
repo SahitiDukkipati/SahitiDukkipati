@@ -1,5 +1,5 @@
 # Dukkipati-Sahiti-
-## Hi, I'm [Dukkipati Sahiti] 👋
+## Hi, I'm Dukkipati Sahiti 👋
 
 🎯 Aspiring Data Analyst passionate about finding stories hidden in data.
 
