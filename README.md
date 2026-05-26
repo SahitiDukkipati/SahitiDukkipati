@@ -1,13 +1,12 @@
 # Dukkipati-Sahiti-
-## Hi, I'm [Your Name] 👋
+## Hi, I'm [Dukkipati Sahiti] 👋
 
 🎯 Aspiring Data Analyst passionate about finding stories hidden in data.
 
-💼 I work with **Python**, **SQL**, **Power BI**, **Tableau**, and **DAX** to clean,
-   analyze, and visualize data that drives real decisions.
+💼 I work with **Python**, **SQL**, **Power BI**, **Tableau**, and **DAX** to clean,analyze, and visualize data that drives real decisions.
 
 📊 Currently building projects around business intelligence, dashboards,
-   and exploratory data analysis.
+and exploratory data analysis.
 
 🔍 Open to **Data Analyst / Business Analyst** roles — full-time or internships.
 
