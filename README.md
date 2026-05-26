@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile!
 
-I'm an aspiring **Data Analyst** who loves turning messy data into
+I'm an **Data Analyst** who loves turning messy data into
 meaningful insights. Here you'll find:
 
 -  Python projects for data analysis & automation
