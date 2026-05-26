@@ -10,9 +10,6 @@ meaningful insights. Here you'll find:
 - 📊 Power BI & Tableau dashboards
 - 📁 End-to-end data projects from cleaning to visualization
 
-Whether you're a recruiter, collaborator, or just curious —
-you're in the right place! Let's connect 🤝
-
 ---
 
 ## 🌐 Socials:
