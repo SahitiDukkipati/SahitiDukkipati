@@ -10,4 +10,9 @@ and exploratory data analysis.
 
 🔍 Open to **Data Analyst / Business Analyst** roles — full-time or internships.
 
-📬 Reach me at: gmail:[dukkipatisahiti@gmail.com] | Linkedin:[https://www.linkedin.com/in/sahitidukkipati]
+📬 Reach me at: gmail:
+```markdown
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahitidukkipati)
+
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto: dukkipatisahiti@gmail.com)
+```
